@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Linda Eva
+## 👋 Hi, I'm Linda Eva...
 
 🎓 **Business Analytics Student** @SenecaPolytechnic
 
