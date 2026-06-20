@@ -2,7 +2,7 @@
 
 🎓 **Business Analytics Student** @SenecaPolytechnic
 
-🔐 **Data & Privacy Contributor** @GLOCALFoundation
+🔐 **Data & Privacy Volunteer Assistant** @GLOCALFoundation
 
 📊 **Focus** - Bridging the gap between messy data and strategic business action
 
