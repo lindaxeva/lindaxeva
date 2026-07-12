@@ -16,7 +16,7 @@
 
 🎯 **Enjoys:** Bridging business needs, data, and strategic decision-making
 
-🌱 Currently developing my skills in business analysis, data quality, data governance, and analytics
+🌱 Guided by *Kaizen*: committed to continuous learning and steady improvement
 
 ---
 
