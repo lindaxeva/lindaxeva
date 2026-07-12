@@ -32,7 +32,7 @@
 
 ---
 
-## 📁 Featured Work
+## 📁 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
