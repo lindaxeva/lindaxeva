@@ -16,6 +16,8 @@
 
 🌱 **Kaizen minded**: committed to continuous learning and steady improvement
 
+📍Canada, Ontario
+
 ---
 
 ## 🛠️ Areas of Interest
