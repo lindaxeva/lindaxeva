@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Business%20Analysis%20%7C%20Data%20Governance%20%7C%20Data%20Analytics%20%7C%20Open%20to%20Work&descAlignY=61&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Bridging%20business%20needs,%20data,%20and%20strategic%20decision-making!&descAlignY=61&descSize=16"
     width="100%"
     alt="Linda Eva Seuna profile banner"
   />
@@ -11,8 +11,6 @@
 🔍 Open to **Business Analyst** internships or co-op roles
 
 🧰 **Experience** at GLOCAL Foundation of Canada & Riipen
-
-🎯 **Enjoys:** Bridging business needs, data, and strategic decision-making
 
 🌱 **Kaizen minded**: committed to continuous learning and steady improvement
 
