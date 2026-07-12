@@ -16,7 +16,7 @@
 
 🎯 **Enjoys:** Bridging business needs, data, and strategic decision-making
 
-🌱 Guided by the *Kaizen* mindset: committed to continuous learning and steady improvement
+🌱 **Kaizen minded**: committed to continuous learning and steady improvement
 
 ---
 
