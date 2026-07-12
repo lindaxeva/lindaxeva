@@ -10,9 +10,9 @@
 
 ## ℹ️ About Me
 
-🔍 Open to **Business Analyst** internships or co-op roles.
+🔍 Open to **Business Analyst** internships or co-op roles
 
-🔐 **Data apprentice** at GLOCAL Foundation of Canada & Riipen Up Level
+🧰 **Experience** at GLOCAL Foundation of Canada & Riipen Up Level
 
 🎯 **Enjoys:** Bridging business needs, data, and strategic decision-making
 
