@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <em>Learning to turn business needs and data into clear, practical solutions.</em>
+  <em>“Good data creates clarity; great analysis creates meaningful action.”</em>
 </p>
 
 <p align="center">
