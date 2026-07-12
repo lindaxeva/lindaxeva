@@ -6,8 +6,6 @@
   />
 </p>
 
----
-
 ## ℹ️ About Me
 
 🔍 Open to **Business Analyst** internships or co-op roles
