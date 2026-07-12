@@ -10,7 +10,7 @@
 
 🔍 Open to **Business Analyst** internships or co-op roles
 
-🧰 **Experience** at GLOCAL Foundation of Canada & Riipen Level Up
+🧰 **Experience** at GLOCAL Foundation of Canada & Riipen
 
 🎯 **Enjoys:** Bridging business needs, data, and strategic decision-making
 
