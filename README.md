@@ -1,21 +1,9 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Linda%20Eva%20Seuna&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20%7C%20Business%20Analysis&descAlignY=61&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Business%20Analysis%20%7C%20Data%20Governance%20%7C%20Data%20Analytics%20%7C%20Open%20to%20Work&descAlignY=61&descSize=16"
     width="100%"
     alt="Linda Eva Seuna profile banner"
   />
-</p>
-
-<h2 align="center">👋🏾 Hi, I'm Linda Eva</h2>
-
-<p align="center">
-  Bridging the gap between business needs, data, and strategic decision-making.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-👩🏽‍💻-22C55E?style=for-the-badge" alt="Continuously learning">
-  <img src="https://img.shields.io/badge/FOCUS-BUSINESS%20ANALYSIS-2563EB?style=for-the-badge" alt="Business Analysis">
-  <img src="https://img.shields.io/badge/INTEREST-DATA%20GOVERNANCE-7C3AED?style=for-the-badge" alt="Data Governance">
 </p>
 
 ---
