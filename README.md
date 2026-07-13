@@ -10,7 +10,7 @@
 
 🔍 Open to **Business Analyst** internships or co-op roles
 
-🧰 **Experience** at GLOCAL Foundation of Canada & Riipen
+📄 Learn more about **my career journey**: [View Resume >>](https://docs.google.com/document/d/1QOfYXELtYjp8BiaHJ4neF4xTBJcRhmfh6nc0xB0rbRo/edit?usp=sharing)
 
 🌱 **Kaizen minded**: committed to continuous learning and steady improvement
 
