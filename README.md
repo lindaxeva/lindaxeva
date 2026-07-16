@@ -14,6 +14,8 @@
 
 🌱 **Kaizen minded**: committed to continuous learning and steady improvement
 
+👥 Membership: Women in Data
+
 📍Canada, Ontario
 
 ---
