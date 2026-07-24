@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Areas of Interest
+## 🛠️ Focus Areas
 
 <p>
   <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=flat-square" alt="Business Analysis">
