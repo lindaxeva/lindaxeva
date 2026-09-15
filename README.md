@@ -19,7 +19,7 @@
 |---|---|---|
 | [**Farm to 400g**](https://github.com/lindaxeva/from-farm-to-400g) WiD - 2006 Datathon Project | Global food-system analysis exploring fruit-and-vegetable availability, supply gaps, trends, and related food-system patterns using FAOSTAT data. | Python, pandas, Plotly, Databricks, Excel, FAOSTAT, GitHub, Data Analysis, Data Visualization |
 | [**Datablix**](https://github.com/lindaxeva/datablix) | A data-quality and research-audit automation tool for rental property directory building. | Python, pandas, Streamlit, requests, Beautiful Soup, lxml, tldextract, Playwright *(optional browser rendering)*, OpenAI API *(optional)*, CSV, Excel, Google Sheets, GitHub, Streamlit Community Cloud |
-| [**Sheetblix**](https://github.com/lindaxeva/sheetblix) | A CSV data-quality tool for identifying outdated data, missing values, and inconsistent category entries. | Python, HTML, CSS, JavaScript, CSV, GitHub Pages |
+| [**Sheetblix**](https://github.com/lindaxeva/sheetblix) | A CSV data-quality automation tool for identifying outdated data, missing values, and inconsistent category entries. | Python, HTML, CSS, JavaScript, CSV, GitHub Pages |
 | [**Canadian Privacy and AI Risks**](https://github.com/lindaxeva/canadian-privacy-ai-risks-responsible-data-use) | Applied research on Canadian privacy, responsible AI, and responsible data use. | Power BI, Excel, Data Research, Data Visualization |
 
 ---
