@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Turning%20business%20needs,%20processes,%20and%20data%20into%20strategic%20solutions.&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=210&section=header&text=👩🏾‍💻Hi,%20I'm%20Linda%20Eva&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Turning%20business%20needs,%20processes,%20and%20data%20into%20strategic%20solutions.&descAlignY=61&descSize=16" width="100%" alt="Linda Eva Seuna profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=flat-square" alt="Business Analysis">
-  <img src="https://img.shields.io/badge/Data%20Quality-7C3AED?style=flat-square" alt="Data Quality">
-  <img src="https://img.shields.io/badge/Data%20Governance-9333EA?style=flat-square" alt="Data Governance">
-  <img src="https://img.shields.io/badge/Data%20Privacy-B91C1C?style=flat-square" alt="Data Privacy">
-  <img src="https://img.shields.io/badge/Data%20Analytics-0F766E?style=flat-square" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/AI%20Automation-2563EB?style=flat-square" alt="AI Automation">
+  <img src="https://img.shields.io/badge/Business%20Analysis-F97316?style=flat-square" alt="Business Analysis">
+  <img src="https://img.shields.io/badge/Data%20Quality-EA580C?style=flat-square" alt="Data Quality">
+  <img src="https://img.shields.io/badge/Data%20Governance-F59E0B?style=flat-square" alt="Data Governance">
+  <img src="https://img.shields.io/badge/Data%20Privacy-C2410C?style=flat-square" alt="Data Privacy">
+  <img src="https://img.shields.io/badge/Data%20Analytics-D97706?style=flat-square" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/AI%20Automation-F97316?style=flat-square" alt="AI Automation">
 </p>
 
 ---
@@ -28,13 +28,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/linda-eva-seuna">
-    <img src="https://img.shields.io/badge/LinkedIn-Linda%20Eva%20Seuna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Linda%20Eva%20Seuna-F97316?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/lindaxeva">
-    <img src="https://img.shields.io/badge/GitHub-lindaxeva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-lindaxeva-C2410C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://medium.com/@lindaxeva">
-    <img src="https://img.shields.io/badge/Medium-LindaxEva-7C3AED?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-LindaxEva-D97706?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=110&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:F97316&height=110&section=footer" width="100%" alt="" />
 </p>
